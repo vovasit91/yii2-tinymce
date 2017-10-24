@@ -1,6 +1,6 @@
 <?php
 
-namespace zxbodya\yii2\tinymce;
+namespace vovasit91\yii2\tinymce;
 
 use Yii;
 use yii\helpers\Html;
