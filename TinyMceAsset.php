@@ -15,7 +15,7 @@ use yii\widgets\InputWidget;
  */
 class TinyMceAsset extends AssetBundle
 {
-    public $sourcePath = '@zxbodya/yii2/tinymce/vendors/tinymce';
+    public $sourcePath = '@vovasit91/yii2/tinymce/vendors/tinymce';
     public $js = [
         'js/tinymce/tinymce.min.js',
         'js/tinymce/jquery.tinymce.min.js',
