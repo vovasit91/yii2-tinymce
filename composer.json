@@ -1,5 +1,5 @@
 {
-  "name": "zxbodya/yii2-tinymce",
+  "name": "vovasit91/yii2-tinymce",
   "description": "Yii2 extension to use TinyMce with Compressor and FileManager",
   "type": "yii2-extension",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "zxbodya\\yii2\\tinymce\\": ""
+      "vovasit91\\yii2\\tinymce\\": ""
     }
   }
 }
