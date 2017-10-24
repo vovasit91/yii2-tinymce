@@ -1,5 +1,5 @@
 <?php
-namespace zxbodya\yii2\tinymce;
+namespace vovasit91\yii2\tinymce;
 
 use yii\base\Object;
 use yii\web\JsExpression;
